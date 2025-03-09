@@ -1,6 +1,6 @@
 ---
 title: 'SQS アーキテクチャ1'
-date: '2025-02-27'
+date: '2025-03-09'
 tags: ['SQS', 'localstack', 'Golang', 'Architecture']
 isOpen: true
 ---
